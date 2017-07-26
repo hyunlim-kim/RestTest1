@@ -21,7 +21,8 @@ import org.springframework.web.client.RestTemplate;
 
 public class JoinActivity extends AppCompatActivity {
 
-    // 주석
+
+    //주석주석주석
 
     private EditText edtJoinName,edtJoinId,edtJoinPW,edtJoinHp;
     private ProgressBar JoinProgressBar;
